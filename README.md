@@ -2,6 +2,8 @@
 
 A simple interactive Rock Paper Scissors game built with HTML, CSS, and JavaScript.
 
+**🎮 [Play the Live Demo](https://rockpapergame-karla-g.netlify.app/)**
+
 The player competes against the computer, which randomly selects rock, paper, or scissors. The game keeps track of wins, losses, and ties, and saves the score using the browser's local storage.
 
 ## Features
