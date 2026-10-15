@@ -164,9 +164,9 @@ function playGame(playerMove) {
   document.querySelector('.js-result').innerHTML = result;
 
   document.querySelector('.js-moves').innerHTML = `You
-                <img src = "/img-exercises/lesson10/${playerMove}-emoji.png" class="move-icon">
+                <img src = "img/${playerMove}-emoji.png" class="move-icon">
 
-                <img src = "/img-exercises/lesson10/${computerMove}-emoji.png" class="move-icon"> Computer`;
+                <img src = "img/${computerMove}-emoji.png" class="move-icon"> Computer`;
 }
 
 function updateScoreElement() {
